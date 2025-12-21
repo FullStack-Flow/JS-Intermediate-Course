@@ -1,0 +1,13 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="url(#paint0_linear)"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2D3436"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#F1C40F" style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 48px; font-weight: bold; letter-spacing: 2px;">JS INTERMEDIATE</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 300; letter-spacing: 5px;">FULLSTACK FLOW COURSE</text>
+  <path d="M750 20L780 50L750 80" stroke="#F1C40F" stroke-width="2" fill="none"/>
+  <path d="M50 180L20 150L50 120" stroke="#F1C40F" stroke-width="2" fill="none"/>
+</svg>

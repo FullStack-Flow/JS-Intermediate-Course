@@ -1,5 +1,16 @@
 # JavaScript Intermediate Course
 
+<p align="center">
+  <img src="banner.svg" alt="JS Intermediate Course Banner" width="800">
+</p>
+
+<p align="center">
+  <a href="https://github.com/FullStack-Flow"><img src="https://img.shields.io/badge/GitHub-FullStack--Flow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://x.com/FullstackFlow"><img src="https://img.shields.io/badge/Twitter-FullstackFlow-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"></a>
+  <a href="https://discord.gg/xHrfsAyr"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord" alt="Discord"></a>
+  <a href="https://www.youtube.com/@fullstackflow03"><img src="https://img.shields.io/badge/YouTube-FullStack%20Flow-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+</p>
+
 A comprehensive collection of JavaScript intermediate-level examples and exercises covering ES6+ features, advanced concepts, and object-oriented programming principles.
 
 ## 📚 Course Overview
